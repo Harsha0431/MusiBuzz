@@ -10,9 +10,9 @@ Backend: [Backend Repo](https://github.com/Harsha0431/MusiBuzz_Django)
 ## Technologies Used  
 
 - **Django**: Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design.  
-- **Vue.js**: Vue.js is a progressive JavaScript framework used for building user interfaces.  
-- **Tailwind CSS**: Tailwind CSS is a utility-first CSS framework for creating custom designs without having to leave your HTML.  
-- **Spotify API**: The Spotify API provides access to millions of tracks and albums, allowing developers to integrate Spotify's vast music catalog into their applications.  
+- **Vue.js**: A progressive JavaScript framework used for building user interfaces.  
+- **Tailwind CSS**: An utility-first CSS framework for creating custom designs without having to leave your HTML.  
+- **Spotify API**: It API provides access to millions of tracks and albums, allowing developers to integrate Spotify's vast music catalog into their applications.  
 - **Python Libraries**: Various Python libraries were used for implementing machine learning algorithms and other functionalities.  
 
 
